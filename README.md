@@ -46,6 +46,17 @@ The system transforms raw job postings into structured, analyzable data suitable
 - Regex
 - Dotenv
 - Adzuna API
+## 🔐 Environment Variables
+
+Create a `.env` file in the root directory and add your API keys:
+
+```text
+ADZUNA_APP_ID=your_app_id
+ADZUNA_APP_KEY=your_app_key
+```
+
+---
+
 ## 🚀 How to Run
 
 ```bash
