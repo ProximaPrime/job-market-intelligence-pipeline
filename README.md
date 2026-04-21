@@ -46,7 +46,16 @@ The system transforms raw job postings into structured, analyzable data suitable
 - Regex
 - Dotenv
 - Adzuna API
+- ## 📂 Project Structure
 
----
+```text
+job-market-intelligence-pipeline/
+│
+├── job_market_intelligence_pipeline.ipynb   # Main pipeline notebook
+├── jobs_cleaned.csv                         # Final cleaned dataset
+├── scraper.log                              # Logging output
+├── .env                                     # API keys (not pushed to GitHub)
+├── requirements.txt                         # Dependencies
+└── README.md                                # Project documentation
 
 ## 📂 Project Structure
