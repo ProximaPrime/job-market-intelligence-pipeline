@@ -51,15 +51,11 @@ The system transforms raw job postings into structured, analyzable data suitable
 ```text
 job-market-intelligence-pipeline/
 │
-├── job_market_intelligence_pipeline.ipynb   # Main pipeline notebook
-├── jobs_cleaned.csv                         # Final cleaned dataset
-├── scraper.log                              # Logging output
-├── .env                                     # API keys (not pushed to GitHub)
-## 🚀 How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/ProximaPrime/job-market-intelligence-pipeline.git
-cd job-market-intelligence-pipeline
+├── job_market_intelligence_pipeline.ipynb
+├── jobs_cleaned.csv
+├── scraper.log
+├── .env
+├── requirements.txt
+└── README.md
 ├── requirements.txt                         # Dependencies
 └── README.md                                # Project documentation
