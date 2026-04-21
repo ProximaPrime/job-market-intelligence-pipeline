@@ -52,6 +52,7 @@ The system transforms raw job postings into structured, analyzable data suitable
 ```bash
 git clone https://github.com/ProximaPrime/job-market-intelligence-pipeline.git
 cd job-market-intelligence-pipeline
+```
 
 ## 📂 Project Structure
 
@@ -62,8 +63,6 @@ job-market-intelligence-pipeline/
 ├── jobs_cleaned.csv                         # Final cleaned dataset
 ├── scraper.log                              # Logging output
 ├── .env                                     # API keys (not pushed to GitHub)
-├── requirements.txt                         # Dependencies
-└── README.md                                # Project documentation
 ```
 ├── requirements.txt                         # Dependencies
 └── README.md                                # Project documentation
