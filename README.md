@@ -46,6 +46,12 @@ The system transforms raw job postings into structured, analyzable data suitable
 - Regex
 - Dotenv
 - Adzuna API
+- ## 🚀 How to Run
+
+```bash
+git clone https://github.com/ProximaPrime/job-market-intelligence-pipeline.git
+cd job-market-intelligence-pipeline
+```
 ## 📂 Project Structure
 
 ```text
