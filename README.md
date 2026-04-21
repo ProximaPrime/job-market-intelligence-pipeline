@@ -57,6 +57,5 @@ job-market-intelligence-pipeline/
 ├── .env                                     # API keys (not pushed to GitHub)
 ├── requirements.txt                         # Dependencies
 └── README.md                                # Project documentation
-```
 ├── requirements.txt                         # Dependencies
 └── README.md                                # Project documentation
