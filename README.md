@@ -59,7 +59,7 @@ job-market-intelligence-pipeline/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/job-market-intelligence-pipeline.git
+git clone https://github.com/ProximaPrime/job-market-intelligence-pipeline.git
 cd job-market-intelligence-pipeline
 ├── requirements.txt                         # Dependencies
 └── README.md                                # Project documentation
