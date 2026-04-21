@@ -48,5 +48,6 @@ The system transforms raw job postings into structured, analyzable data suitable
 - Adzuna API
 
 ---
+## 📂 Project Structure
 
 ## 📂 Project Structure
