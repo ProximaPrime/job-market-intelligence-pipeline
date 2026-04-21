@@ -65,6 +65,44 @@ cd job-market-intelligence-pipeline
 pip install -r requirements.txt
 jupyter notebook job_market_intelligence_pipeline.ipynb
 ```
+## 📊 Outputs Generated
+
+After running the pipeline, the system generates:
+
+- `jobs_cleaned.csv` → cleaned and processed dataset  
+- `scraper.log` → logs for debugging and tracking execution  
+- Console insights:
+  - Top companies
+  - Top skills
+  - Jobs by country
+  - Top regions  
+- Visualizations:
+  - Bar charts for companies, skills, countries, and regions  
+
+---
+
+## 📌 Notes
+
+- Ensure your Adzuna API keys are valid  
+- Do NOT upload `.env` file to GitHub  
+- Run notebook cells in order to avoid errors  
+- Internet connection is required for API calls  
+
+---
+
+## 📌 Future Improvements
+
+- Streamlit dashboard for interactive analytics  
+- Real-time job scraping automation  
+- Salary prediction module  
+- Geographic heatmaps  
+
+---
+
+## 📄 License
+
+This project is for educational and portfolio purposes only.
+
 ## 📂 Project Structure
 
 ```text
